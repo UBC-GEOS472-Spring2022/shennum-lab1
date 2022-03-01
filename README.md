@@ -1,6 +1,6 @@
 # shennum-lab1
 
-<h3>Map can be accessed at: https://shennum.github.io/shennum-web/lab1/railways.html</h3> 
+<h3>Map can be accessed at: <a href="https://shennum.github.io/shennum-web/lab1/railways.html" target="_blank">https://shennum.github.io/shennum-web/lab1/railways.html</a></h3> 
 
 ![alt text](https://github.com/UBC-GEOS472-Spring2022/shennum-lab1/blob/main/screenshot_railway.JPG "Screenshot of railway map")
 
